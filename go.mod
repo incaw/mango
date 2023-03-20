@@ -1,4 +1,4 @@
-module github.com/mangofw/mango
+module github.com/incaw/mango
 
 go 1.19
 
